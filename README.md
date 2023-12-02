@@ -15,5 +15,5 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-🔭 I’m currently working on Machine Learning
-📫 Here's how to reach me: shreeyakamtikar@gmail.com
+- 🔭 I’m currently working on Machine Learning
+- 📫 Here's how to reach me: shreeyakamtikar@gmail.com
